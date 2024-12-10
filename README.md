@@ -9,6 +9,7 @@ A publication with details of the model and examples is in preparation, There, f
 
 Screenshot of a simulation of a GaAs cone-shell QD in a vertical electric field:
 ![image](https://github.com/user-attachments/assets/4cb82986-8c16-4f7a-98d6-2a8eca961898)
+Graphs: (top) 3D potential from x-, y-, z-direction; (center) electron probability density; (bottom) hole probability density
 
 Version history:
 09.12.2024: initial version
