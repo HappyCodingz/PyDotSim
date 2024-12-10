@@ -1,33 +1,18 @@
 Installation:
-
 1) Install a Python environment including matplotlib, numpy, and scipy
-
 2) Copy the file PyDotSim.py and the folder lib to a folder of your choice
-
 3) Open the file PyDotSim.py with your Python IDE and start it
 
 Usage:
-
 Check the materials properties by the button <materials>
-
 Select the quantum dot (QD) shape
-
 Select the QD size, the simulation parameters, and the fields
-
 You may add point charges 
-
 Select the particle exciton X, biexciton XX, etc
-
 Select the number of self-consistent loops (SL) for the correlation correction (SL=0 means without)
-
 Select the threshold for the wave function analyses (values below 0.01 may compute very slow)
-
 Press button <Create model> (required after every change of the parameters)
-
 If the QD size is changed, you can adjust the cell size by the button <Auto cell>
-
 Press <Compute> to start e simulation. The results are given in the log window.
-
 Press <Analyze WF> to analyze the wave functions. The results are given in the log window.
-
-You can define series of selected parameters. A series is stared by the button <Series go> and the results are stores in a CSV file. 
+You can define series of selected parameters. A series is started by the button <Series go> and the results are stores in a CSV file. 
