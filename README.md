@@ -9,4 +9,5 @@ A publication with details of the model and examples is in preparation, There, f
 electric and magnetic fields. Studied points include the dependence of the exciton energy and the exciton-biexciton splitting on the QD size, a significant Stark-shift and the transformation of the hole probability density from a dot into a quantum ring in a vertical electric field Fz, a novel strong-weak
 confinement regime and its influence on the radiative lifetime, the broadening of the exciton peak and a possible origin for blinking induced by point charges, the possibility to store photoexcited charge carriers in a combined electric and magnetic field, and optical Aharonov-Bohm oscillations.
 
+Screenshot for a simulation of a GaAs cone-shell QD
 ![image](https://github.com/user-attachments/assets/99b16f53-4cb0-4cd8-8c80-d02e4cb712be)
