@@ -7,5 +7,8 @@ education and for experimenters who wants to predict or evaluate their experimen
 
 A publication with details of the model and examples is in preparation, There, for a demonstration of the model, simulation results are compared to experimental data obtained using micro-photoluminescence from single GaAs cone-shell QDs (CSQDs). These CSQDs have a unique shape which allows a wide tunability of the charge carrier probability densities by external electric and magnetic fields. Studied points include the dependence of the exciton energy and the exciton-biexciton splitting on the QD size, a significant Stark-shift and the transformation of the hole probability density from a dot into a quantum ring in a vertical electric field, a novel strong-weak confinement regime and its influence on the radiative lifetime, the broadening of the exciton peak and a possible origin for blinking induced by point charges, the possibility to store photoexcited charge carriers in a combined electric and magnetic field, and optical Aharonov-Bohm oscillations.
 
-Screenshot of a simulation of a GaAs cone-shell QD:
-![image](https://github.com/user-attachments/assets/99b16f53-4cb0-4cd8-8c80-d02e4cb712be)
+Screenshot of a simulation of a GaAs cone-shell QD in a vertical electric field:
+![image](https://github.com/user-attachments/assets/4cb82986-8c16-4f7a-98d6-2a8eca961898)
+
+Version history:
+09.12.2024: initial version
